@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.dark-mode {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: rgb(47, 52, 55);
+  color: rgba(255, 255, 255, 0.9);
+  height: 100vh;
+}
+body {
+  margin: 0;
+}
+h1 {
+  margin: 0;
+}
