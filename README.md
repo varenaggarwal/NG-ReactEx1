@@ -1,2 +1,3 @@
-# NG-ReactEx1
-Created with CodeSandbox
+# react-practice-exercises
+
+
